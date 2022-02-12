@@ -1,0 +1,14 @@
+### Create a customer
+POST http://localhost:8080/customer?firstName=foo&lastName=bar
+
+### Find all customer
+GET http://localhost:8080/customer
+
+### Find by first name
+GET http://localhost:8080/customer/firstname/foo
+
+### Find by last name
+GET http://localhost:8080/customer/lastname/bar
+
+### Delete by id
+DELETE http://localhost:8080/customer/6207d2a4324d045460ad4905

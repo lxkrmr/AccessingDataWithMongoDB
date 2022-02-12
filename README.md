@@ -8,7 +8,6 @@ https://spring.io/guides/gs/accessing-data-mongodb/
 
 You can use the included docker compose file to start Mongo on your local machine.
 
-I found the file on https://dev.to/sonyarianto/how-to-spin-mongodb-server-with-docker-and-docker-compose-2lef
-
-So thanks to Sony AK!
+See docker hub for more info:
+https://hub.docker.com/_/mongo
 
