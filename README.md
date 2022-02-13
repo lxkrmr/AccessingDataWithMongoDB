@@ -11,3 +11,9 @@ You can use the included docker compose file to start Mongo on your local machin
 See docker hub for more info:
 https://hub.docker.com/_/mongo
 
+# Mongo DB
+
+After starting the docker containers you can go to local Mongo Express endpoint
+to create a new DB - here we are using a "customer" db.
+
+http://localhost:8081/
